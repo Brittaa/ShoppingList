@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/bin/Debug/netcoreapp3.0/ShopingList
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/bin/Debug/netcoreapp3.0/ShopingList.deps.json
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/bin/Debug/netcoreapp3.0/ShopingList.runtimeconfig.json
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/bin/Debug/netcoreapp3.0/ShopingList.runtimeconfig.dev.json
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/bin/Debug/netcoreapp3.0/ShopingList.dll
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/bin/Debug/netcoreapp3.0/ShopingList.pdb
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/obj/Debug/netcoreapp3.0/ShopingList.csprojAssemblyReference.cache
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/obj/Debug/netcoreapp3.0/ShopingList.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/obj/Debug/netcoreapp3.0/ShopingList.AssemblyInfo.cs
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/obj/Debug/netcoreapp3.0/ShopingList.dll
+/Users/Britta/Desktop/ShoppingList/ShopingList/ShopingList/obj/Debug/netcoreapp3.0/ShopingList.pdb
